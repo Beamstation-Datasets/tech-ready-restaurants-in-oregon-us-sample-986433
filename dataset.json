@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in Oregon, US",
+  "export_job_id": "113b7cbb-ec50-40ea-9dec-295f545d4e3d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 986433,
+  "location_name": "Oregon",
+  "location_type": "state",
+  "repo_name": "tech-ready-restaurants-in-oregon-us-sample-986433",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/986433/beamstation_986433_restaurants-us-or_SAMPLE_DIST.csv",
+  "sample_pct": 5.26,
+  "sample_records": 1,
+  "sample_sha256": "e49b00e196a3d9611051cba8858edbb8efdbb3e685da33fef8667d47b4dde5ad",
+  "sample_size_bytes": 20498,
+  "total_records": 19,
+  "updated_at": "2026-04-08T05:08:28.833229+00:00"
+}
