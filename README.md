@@ -9,9 +9,9 @@
 | Dataset ID | `986433` |
 | Location | Oregon |
 | Category | Restaurants |
-| Full dataset size | 19 records |
-| Free sample size | 1 records (5.26%) |
-| Last export | 2026-04-08T05:08:28.833229+00:00 |
+| Full dataset size | 8 records |
+| Free sample size | 1 records (12.5%) |
+| Last export | 2026-04-15T09:26:37.220244+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-oregon-us-sample-986433/releases/download/sample-latest/beamstation_986433_restaurants-us-or_SAMPLE_DIST.csv) |
 
 ## What is in this sample
