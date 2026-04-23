@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bb7ad111-fab2-4bf7-8448-37540f34e0eb",
+  "export_job_id": "77dc3e07-be58-4578-9eb5-9593bc9a2fb5",
   "id_short": 986433,
-  "published_at": "2026-04-19T07:43:20Z",
+  "published_at": "2026-04-23T07:30:48Z",
   "repo_name": "tech-ready-restaurants-in-oregon-us-sample-986433",
   "sample_asset_name": "beamstation_986433_restaurants-us-or_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/986433/beamstation_986433_restaurants-us-or_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "e49b00e196a3d9611051cba8858edbb8efdbb3e685da33fef8667d47b4dde5ad",
-  "sample_size_bytes": 20498,
-  "total_records": 8
+  "sample_sha256": "5efa247057e1340808d394e8be3c019b7c21f8b4e649a22d7c8c88034c1a8446",
+  "sample_size_bytes": 20204,
+  "total_records": 19
 }
