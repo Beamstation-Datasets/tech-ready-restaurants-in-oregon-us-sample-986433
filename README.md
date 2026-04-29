@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Oregon, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 10 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `986433` |
 | Location | Oregon |
 | Category | Restaurants |
-| Full dataset size | 19 records |
-| Free sample size | 1 records (5.26%) |
-| Last export | 2026-04-22T17:05:07.442750+00:00 |
+| Full dataset size | 103 records |
+| Free sample size | 10 records (9.71%) |
+| Last export | 2026-04-29T16:57:19.018103+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-oregon-us-sample-986433/releases/download/sample-latest/beamstation_986433_restaurants-us-or_SAMPLE_DIST.csv) |
 
 ## What is in this sample
